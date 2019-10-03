@@ -1,4 +1,4 @@
-# Xtream Codes V2 API support for XC V1.6
+# Xtream Codes V2 API support for XC V1.6 (Currently broken)
 
 ## Before installation.
 
